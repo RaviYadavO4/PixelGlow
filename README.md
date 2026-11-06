@@ -6,13 +6,9 @@ PixelGlow is an enterprise-grade, high-performance Android Image Editor applicat
 
 ## 📱 App Screenshots
 
-<div align="center">
-
 | Studio Dashboard | Live Editor & Processing Studio |
-| :---: | :---: |
-| <img src="screenshots/dashboard.png" width="275" alt="Studio Dashboard" /> | <img src="screenshots/editor_studio.png" width="275" alt="Live Editor Studio" /> |
-
-</div>
+| :--- | :--- |
+| <img src="screenshots/dashboard.png" width="200" alt="Studio Dashboard" /> | <img src="screenshots/editor_studio.png" width="200" alt="Live Editor Studio" /> |
 
 ---
 
